@@ -1,1 +1,3 @@
-IN this folder, all the code is about the data preprocessing
+generateLVLabelAll.py
+
+This code is used to transfer the contour lines into LV label image by "fillConvexPoly" function
